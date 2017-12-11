@@ -1,0 +1,15 @@
+.\system_stm32f10x.o: CMSIS\system_stm32f10x.c
+.\system_stm32f10x.o: CMSIS\stm32f10x.h
+.\system_stm32f10x.o: CMSIS\core_cm3.h
+.\system_stm32f10x.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\system_stm32f10x.o: .\CMSIS\core_cmInstr.h
+.\system_stm32f10x.o: .\CMSIS\core_cmFunc.h
+.\system_stm32f10x.o: CMSIS\system_stm32f10x.h
+.\system_stm32f10x.o: CMSIS\stm32f10x_conf.h
+.\system_stm32f10x.o: .\SPL\stm32f10x_exti.h
+.\system_stm32f10x.o: .\CMSIS\stm32f10x.h
+.\system_stm32f10x.o: .\SPL\stm32f10x_gpio.h
+.\system_stm32f10x.o: .\SPL\stm32f10x_pwr.h
+.\system_stm32f10x.o: .\SPL\stm32f10x_rcc.h
+.\system_stm32f10x.o: .\SPL\stm32f10x_spi.h
+.\system_stm32f10x.o: .\SPL\misc.h

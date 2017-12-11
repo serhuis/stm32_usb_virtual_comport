@@ -1,0 +1,16 @@
+.\usb-fifo.o: src\USB-FIFO.c
+.\usb-fifo.o: .\CMSIS\stm32f10x_conf.h
+.\usb-fifo.o: .\SPL\stm32f10x_exti.h
+.\usb-fifo.o: .\CMSIS\stm32f10x.h
+.\usb-fifo.o: .\CMSIS\core_cm3.h
+.\usb-fifo.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\usb-fifo.o: .\CMSIS\core_cmInstr.h
+.\usb-fifo.o: .\CMSIS\core_cmFunc.h
+.\usb-fifo.o: .\CMSIS\system_stm32f10x.h
+.\usb-fifo.o: .\CMSIS\stm32f10x_conf.h
+.\usb-fifo.o: .\SPL\stm32f10x_gpio.h
+.\usb-fifo.o: .\SPL\stm32f10x_pwr.h
+.\usb-fifo.o: .\SPL\stm32f10x_rcc.h
+.\usb-fifo.o: .\SPL\stm32f10x_spi.h
+.\usb-fifo.o: .\SPL\misc.h
+.\usb-fifo.o: .\inc\fifo.h
